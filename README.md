@@ -128,9 +128,3 @@ Your Name – Developer & Designer
 📝 License
 
 This project is licensed under the MIT License – feel free to use and modify it.
-
-
-
-Would you like me to make it specific to your tech stack (for example, “Node.js + Socket.IO + MongoDB” or “Firebase + React”)?
-That way I can tailor the README exactly for your version.
-
